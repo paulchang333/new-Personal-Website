@@ -1,0 +1,127 @@
+{
+  "main": {
+    "name": "Paul Chang",
+    "description": "I am a Software Developer who over the past 2 years, studied at the University of Waterloo for Computer Engineering and helped multiple companies achieve their next level",
+    "image": "profilepic.jpg",
+    "bio": "Looking for an organized, easily adapatable, and technology crazed student? Nice to meet you, my name is Paul Chang and it looks like you found the right person.I am capable of being placed in a variety of different environments. This is possible due to my excellent communcation skills, a strong work ethic and great people skills. A student with honesty, is reliable and a hard worker who will go above and beyond, I am able to overcome any obstacles thrown at me.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "p24chang@uwaterloo.ca",
+    "phone": "647-914-4724",
+    "address": {
+      "street": "530 Falgarwood Dr",
+      "city": "Oakville",
+      "zip": "L6H 1N3"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1Qhe6d-zkIhyjY0-v0WZlNQ2LjOHsmCZ4/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/paul-changuw/",
+        "className": "fa fa-linkedin"
+      },
+
+      {
+        "name": "github",
+        "url": "https://github.com/paulchang333",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "University of Waterloo",
+        "degree": "BASc, Honors Computer Engineering",
+        "graduated": "2019 - present",
+        "description": "Candidate for the bachelor's of applied science from the University of Waterloo in the Computer Engineering program"
+      }
+    ],
+    "work": [
+      {
+        "company": "Toxon Technologies Inc",
+        "title": "Full Stack Software Developer",
+        "years": "May 2021 – Present",
+        "description": "Pioneered both front-end and back-end of a profile based feature, allowing users to manage calibration thresholds for each bow they may possess using JavaScript, Golang and React Native. Architected an admin dashboard for the support team to showcase all user’s information to increase debugging efficiency using React, Auth0 and JavaScript Responsible for updating, merging and deploying multiple releases of the company’s app for both IOS and Android platforms using GitHub and Circle Ci. Implemented additional endpoints to the company’s open API platform using JavaScript and React Native."
+      },
+      {
+        "company": "Super Cool Studio",
+        "title": "Junior bug fixer",
+        "years": "March 2007 - February 2010",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "60%"
+      },
+      {
+        "name": "C++",
+        "level": "70%"
+      },
+
+      {
+        "name": "Golang",
+        "level": "60%"
+      },
+
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Flicker",
+        "category": "MERN stack application modelled after tinder, friends and family can select what netflix movie/show they would want to watch together with ease.",
+        "image": "netflix.jpg",
+        "url": "https://github.com/paulchang333/flicker"
+      },
+      {
+        "title": "Library Profiles",
+        "category": "Python Library profile application allows users to keep track of books they have rented.",
+        "image": "libraryCard.jpg",
+        "url": "https://github.com/blowingfun/library_application"
+      },
+      {
+        "title": "Personal To Do List",
+        "category": "Django Wesbite allows users to create personal to do list.",
+        "image": "toDoList.jpg",
+        "url": "https://github.com/blowingfun/Django-projects"
+      },
+      {
+        "title": "alGOrithm",
+        "category": "React web application where users can pit 2 different algorithms against one another in a race.",
+        "image": "algorithm.jpg",
+        "url": "https://github.com/paulchang333/alGOrithm"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
